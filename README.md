@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=300&section=header&text=Dayoung%20Ahn&fontSize=90)
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <h4 align="center"> I’m Dayoung Ahn, a growing iOS developer 🌱 </h4>
 <br>
