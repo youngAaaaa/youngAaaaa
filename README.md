@@ -11,10 +11,6 @@
 <br>
 <div align="center">
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngAaaaa&layout=compact&title_color=ee9ca7&text_color=ee9ca7)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngAaaaa&show_icons=false&title_color=ee9ca7&text_color=ee9ca7)
 </div>
 
 
